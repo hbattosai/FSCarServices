@@ -28,6 +28,8 @@ body{
 	text-decoration: none;
 	width: 33%;
 	display: inline-block;
+	font-weight:bold;
+	font-family: 
 }
 .text-center{
 	text-align: center;
@@ -45,7 +47,7 @@ body{
 }
 
 .product h3{
-	font-size: 1.3em;
+	font-size: 1.2em;
 	margin-top:5px;
 	margin-bottom: 5px;	
 }
